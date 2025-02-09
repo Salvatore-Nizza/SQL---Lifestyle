@@ -1,4 +1,4 @@
-# SQL---Lifestyle
+# SQL - Lifestyle
 # Progetto di Analisi Dati Globali con SQL
 
 Questo progetto esplora diversi dataset per analizzare e confrontare i paesi su temi chiave come **economia, popolazione, energia ed emissioni di CO2, e migrazione**. L'obiettivo è fornire una comprensione approfondita delle dinamiche globali attraverso l'analisi dei dati.
